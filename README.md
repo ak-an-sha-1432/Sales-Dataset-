@@ -1,6 +1,5 @@
-# Super Store Sales Dataset-
-Task 2,
-KPI Highlights (Top Row,
+# Task 2- Super Store Sales Dataset-
+KPI Highlights (Top Row),
 Sales Distribution,
 Time Trends,
 Geographic Analysis,
